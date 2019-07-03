@@ -1,2 +1,2 @@
-as=input()
-print(as.count(".")+1)
+ssa=input()
+print(ssa.count(".")+1)
